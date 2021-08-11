@@ -14,4 +14,5 @@ The repository is structured in the following way:
 Authors: 
 
 Massimo Manca
+
 Daan Dinkla
